@@ -1,0 +1,22 @@
+{
+    "name": "joespark/rs-yajra-wrapper",
+    "description": "Pasangan Untuk API Resource Search dan Yajra",
+    "type": "library",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Joespark\\RsYajraWrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joe Spark",
+            "email": "prasojoam@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "laravel/lumen-framework": "^8.0",
+        "yajra/laravel-datatables-oracle": "~9.0"
+    }
+}

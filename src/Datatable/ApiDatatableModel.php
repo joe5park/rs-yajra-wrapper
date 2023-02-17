@@ -1,5 +1,5 @@
 <?php
-namespace Joespark\DatatableWrapper;
+namespace Joespark\Datatable;
 
 class ApiDatatableModel extends ApiDatatable
 {

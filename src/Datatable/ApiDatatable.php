@@ -1,6 +1,6 @@
 <?php
 
-namespace Joespark\Datatable;
+namespace Joespark\RsYajraWrapper\Datatable;
 
 use Yajra\DataTables\DataTableAbstract;
 use Illuminate\Http\JsonResponse;
